@@ -1,0 +1,9 @@
+c:\users\jhonatan\documents\visual studio 2015\Projects\ucss-calculator\ucss-calculator\bin\Debug\ucss-calculator.exe.config
+c:\users\jhonatan\documents\visual studio 2015\Projects\ucss-calculator\ucss-calculator\bin\Debug\ucss-calculator.exe
+c:\users\jhonatan\documents\visual studio 2015\Projects\ucss-calculator\ucss-calculator\bin\Debug\ucss-calculator.pdb
+c:\users\jhonatan\documents\visual studio 2015\Projects\ucss-calculator\ucss-calculator\obj\Debug\ucss-calculator.csprojResolveAssemblyReference.cache
+c:\users\jhonatan\documents\visual studio 2015\Projects\ucss-calculator\ucss-calculator\obj\Debug\ucss_calculator.Form1.resources
+c:\users\jhonatan\documents\visual studio 2015\Projects\ucss-calculator\ucss-calculator\obj\Debug\ucss_calculator.Properties.Resources.resources
+c:\users\jhonatan\documents\visual studio 2015\Projects\ucss-calculator\ucss-calculator\obj\Debug\ucss-calculator.csproj.GenerateResource.Cache
+c:\users\jhonatan\documents\visual studio 2015\Projects\ucss-calculator\ucss-calculator\obj\Debug\ucss-calculator.exe
+c:\users\jhonatan\documents\visual studio 2015\Projects\ucss-calculator\ucss-calculator\obj\Debug\ucss-calculator.pdb
